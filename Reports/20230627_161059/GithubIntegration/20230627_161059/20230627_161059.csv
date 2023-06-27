@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GithubIntegration,,,,2023-06-27 16:11:03,2023-06-27 16:11:04,1.149s,PASSED
+,,,,,,,
+Test Cases/for_Ech,,,,2023-06-27 16:11:04,2023-06-27 16:11:04,0.605s,PASSED
+"println(""Hello Github"")",,,,2023-06-27 16:11:04,2023-06-27 16:11:04,0.002s,PASSED
