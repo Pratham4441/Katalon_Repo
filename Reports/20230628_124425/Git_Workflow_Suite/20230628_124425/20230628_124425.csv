@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Git_Workflow_Suite,,,,2023-06-28 12:44:29,2023-06-28 12:44:30,0.905s,PASSED
+,,,,,,,
+Test Cases/Test_Git_workflow,,,,2023-06-28 12:44:29,2023-06-28 12:44:30,0.543s,PASSED
+"println(""Prathamesh is Testing the Git Workflow"")",,,,2023-06-28 12:44:30,2023-06-28 12:44:30,0.006s,PASSED

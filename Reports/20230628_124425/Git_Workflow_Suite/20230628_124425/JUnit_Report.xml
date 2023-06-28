@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Git_Workflow_Suite" time="0.905" tests="1" failures="0" errors="0">
+   <testsuite name="Git_Workflow_Suite" tests="1" failures="0" errors="0" time="0.905" skipped="0" timestamp="2023-06-28 12:44:29" hostname="Prathamesh.Hulavale - DS019.step.com" id="Test Suites/Git_Workflow_Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\prathamesh.hulavale\\Katalon Studio\\Git_new_Project\\Katalon_Repo\\Reports\\20230628_124425\\Git_Workflow_Suite\\20230628_124425"/>
+         <property name="logFiles" value="C:\\Users\\prathamesh.hulavale\\Katalon Studio\\Git_new_Project\\Katalon_Repo\\Reports\\20230628_124425\\Git_Workflow_Suite\\20230628_124425\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Prathamesh.Hulavale - DS019.step.com"/>
+         <property name="hostAddress" value="192.168.0.112"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+      </properties>
+      <testcase name="Test Cases/Test_Git_workflow" time="0.543" classname="Test Cases/Test_Git_workflow" status="PASSED">
+         <system-out><![CDATA[2023-06-28 12:44:29 - [TEST_CASE][PASSED] - Test Cases/Test_Git_workflow: Test Cases/Test_Git_workflow
+
+2023-06-28 12:44:30 - [TEST_STEP][PASSED] - println("Prathamesh is Testing the Git Workflow"): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-28 12:44:29 - [TEST_SUITE][PASSED] - Git_Workflow_Suite: Test Cases/Test_Git_workflow]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
